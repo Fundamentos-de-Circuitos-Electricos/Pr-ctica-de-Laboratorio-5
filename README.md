@@ -10,6 +10,10 @@
 
 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/85137398/126720317-387940b3-100e-438a-910a-55da92db9395.png)
+
+![image](https://user-images.githubusercontent.com/85137398/126720336-0185f413-ef95-4e48-a4da-9dfcb020b064.png)
+
 3. EXPLICACIÓN DEL PROCESO
 
 - Material y equipo requerido
@@ -55,3 +59,7 @@ A continuacion calculamos los valores teóricos de voltaje y corriente en el cir
 6. CONCLUSIONES
 
 7. BIBLIOGRAFÍA
+
+- Wikipedia. (16 de Enero de 2021). Teorema de Thevenin. Obtenido de https://es.wikipedia.org/wiki/Teorema_de_Th%C3%A9venin
+
+- Xnomind. (7 de Noviembre de 2019). TEOREMA. Obtenido de TEOREMA DE THEVENIN EXPLICADO PARA QUE LO ENTIENDAS: https://www.teorema.top/teorema-de-thevenin/
