@@ -40,8 +40,6 @@ Multímetro digital: Un multímetro digital es una herramienta que sirve para me
 
 - Armado del circuito
 
-![image](https://user-images.githubusercontent.com/85137398/126714129-8d71b330-001d-4576-8079-8dc83c71f3c2.png)
-
 I. Escoger las fuentes de energia de 12v y 2v respectivamente.
 
 ![image](https://user-images.githubusercontent.com/85137398/126712173-b5eed82b-1ac2-4d58-94ac-165c9d803d35.png)
@@ -58,9 +56,13 @@ III. Conectar el circuito en base al diagrama de conexión.
 
 - Conexión del circuito
 
-A continuacion calculamos los valores teóricos de voltaje y corriente en el circuito para completar la siguiente tabla.
+![image](https://user-images.githubusercontent.com/85137398/126714129-8d71b330-001d-4576-8079-8dc83c71f3c2.png)
+
+A continuacion calculamos los valores teóricos de voltaje y corriente en el circuito para completar las interrogantes.
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
+
+* Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2. 
 
 5. VIDEO
 
