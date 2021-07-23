@@ -126,6 +126,10 @@ VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
 * Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
 abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
+![image](https://user-images.githubusercontent.com/84390686/126784366-dd8ee3d0-1ae4-4c2b-b1a7-6e0e4798eba0.png)
+
+CIRCUITO PARA LA RESISTENCIA EQUIVALENTE DE THEVENIN
+
 ![image](https://user-images.githubusercontent.com/84390686/126749474-61a7728e-5227-4c00-a986-1c8cbb5efea6.png)
 
 ENCONTRAMOS EL CIRCUITO EQUIVALENTE 1
