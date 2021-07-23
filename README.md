@@ -80,10 +80,88 @@ Entonces para determinar el voltaje de R5 utilzmos Ley de Ohm: VR5 = 1 kohm * 3.
 
 * Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
 medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/84390686/126749221-1a78d86b-4da5-41ca-aa25-88393254fa97.png)
+
+CALCULAMOS EL VOLTAJE DE THEVENIN
+
+![image](https://user-images.githubusercontent.com/84390686/126749343-2417222a-d21b-4942-aa94-1d325d22ee24.png)
+
+SACAMOS LAS ECUACIONES DE CADA MALLA
+
+MALLA 1
+
+(560 + 4700) I1 – 4700I2 – 12 = 0
+
+5260 I1 – 4700 I2 - 12 = 0      ECUACIÓN (1)
+
+MALLA 2
+
+(330 + 4700) I2 – 4700I1 – 2 = 0
+
+5030 I2 – 4700 I1 - 2 = 0       ECUACIÓN (2)
+
+IGUALAMOS LA ECUACIÓN (1) CON LA ECUACIÓN (2) Y DESPEJAMOS I1
+
+5260 I1 – 4700 I2 – 12 = 5030 I2 – 4700 I1 – 2
+
+9960 I1 = 9730 I2 + 10
+
+I1 = (9730 I2 + 10) / 9960
+
+REMPLAZO I1 EN LA ECUACIÓN (2)
+
+5030 I2 – 4700 ((9730 I2 + 10) / 9960) - 2 = 0
+
+5030 I2 – ((2286550 I2 + 2350) / 498) = 2
+
+(2504940 I2 – 2286550 I2 – 2350) / 498 = 2
+
+218390 I2 – 2350 = 996
+
+I2 = 3346/218390
+
+I2 = 0.01532 A
+
+REMPLAZAR I2 EN I1
+
+I1 = ((9730 · 0.01532) + 10) / 9960
+
+I1 = (149.0636 + 10) / 9960
+
+I1 = 0.01597 A
+
+CALCULAMOS EL VOLTAJE DE THEVENIN
+
+VTH = 0.01532 · 330
+
+VTH = 5.056 V
+
 * Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
 abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
+![image](https://user-images.githubusercontent.com/84390686/126749474-61a7728e-5227-4c00-a986-1c8cbb5efea6.png)
 
+ENCONTRAMOS EL CIRCUITO EQUIVALENTE 1
+
+Req1= (560Ω · 4700Ω) / (560Ω + 4700Ω)
+Req1= 500.38Ω
+
+![image](https://user-images.githubusercontent.com/84390686/126749604-59752c17-c2ed-43fb-9d27-32530f988157.png)
+
+ENCONTRAMOS EL CIRCUITO EQUIVALENTE 2
+
+Req2= (500.38Ω · 330Ω) / (500.38Ω + 330Ω)
+Req2= 198.85Ω
+
+![image](https://user-images.githubusercontent.com/84390686/126749660-039d976c-8df1-4225-8e66-1fb1f80ceca7.png)
+
+ENCONTRAMOS LA RESISTENCIA EQUIVALENTE DE THEVENIN
+
+RTH= 198.85Ω + 100Ω
+RTH= 298.85Ω
+
+![image](https://user-images.githubusercontent.com/84390686/126749702-0c61ab98-f581-46e1-a696-519ea03e5f48.png)
 
 * Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
