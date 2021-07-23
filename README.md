@@ -58,24 +58,6 @@ III. Conectar el circuito en base al diagrama de conexión.
 
 ![image](https://user-images.githubusercontent.com/85137398/126714129-8d71b330-001d-4576-8079-8dc83c71f3c2.png)
 
-A continuacion calculamos los valores teóricos de voltaje y corriente en el circuito para completar las interrogantes.
-
-* Calculamos la Intensidad en R5 y su voltaje para ello, vamos a utilizar la ley de mallas de Kirchhoff: 
-
-![image](https://user-images.githubusercontent.com/84390820/126748399-016c49e7-e2c9-4a74-ba61-8bc6a602c1bf.png)
-
-Planteando y simplificando las ecuaciones obtenemos: 
-
-5260 I1 - 4700 I2 = 12
-
--4700 I1 + 5030 I2 = 2
-
--330 I2 + 1430 I3 = 0 
-
-Resolviendo el sistema de ecuaciones tenemos que I3 = 3.89 * 10 ^(-3) A 
-
-Entonces para determinar el voltaje de R5 utilzmos Ley de Ohm: VR5 = 1 kohm * 3.89 mA  = 3.89 V 
-
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
 * Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
@@ -173,6 +155,24 @@ VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
 
 * Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
+A continuacion calculamos los valores teóricos de voltaje y corriente en el circuito para completar las interrogantes.
+
+* Calculamos la Intensidad en R5 y su voltaje para ello, vamos a utilizar la ley de mallas de Kirchhoff: 
+
+![image](https://user-images.githubusercontent.com/84390820/126748399-016c49e7-e2c9-4a74-ba61-8bc6a602c1bf.png)
+
+Planteando y simplificando las ecuaciones obtenemos: 
+
+5260 I1 - 4700 I2 = 12
+
+-4700 I1 + 5030 I2 = 2
+
+-330 I2 + 1430 I3 = 0 
+
+Resolviendo el sistema de ecuaciones tenemos que I3 = 3.89 * 10 ^(-3) A 
+
+Entonces para determinar el voltaje de R5 utilzmos Ley de Ohm: VR5 = 1 kohm * 3.89 mA  = 3.89 V 
+
 ![image](https://user-images.githubusercontent.com/84390820/126746116-bd999a22-3aaa-4caf-b5c5-da3dd7a78ee7.png)
 
 ![image](https://user-images.githubusercontent.com/84390820/126747596-ce38bcf0-01d1-4d4d-acef-b4e2973595ea.png)
@@ -180,6 +180,13 @@ VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
 * Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
 corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
+![image](https://user-images.githubusercontent.com/84390820/126751743-28c3be5c-9fbb-4319-b271-61911422ce7d.png)
+
+Calculamos el voltaje de R5 en el circuito equivalente de Thévenin:
+
+Utilizamos el divisor de corriente: Vx = (VTH/Req) * Rx = ( 5.056/1298.85) * 1000 = 3.88 V 
+
+Calculamos tambien la intensidad: ITH = VTH / RTH = 5.05/ 1298.85 = 3.88 mA 
 ![image](https://user-images.githubusercontent.com/84390820/126747627-098cbb3e-3ba4-45ab-9245-6e78ff7c432d.png)
 
 ![image](https://user-images.githubusercontent.com/84390820/126747676-fd82cd0a-3bc5-497a-8a55-8605dae5255b.png)
@@ -187,6 +194,10 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 5. VIDEO
 
 6. CONCLUSIONES
+
+*	El teorema de Thévenin establece que cualquier circuito complejo de corriente directa pueda ser reemplazada por un circuito equivalente que conste de una fuente de voltaje y un resistor en serie.
+
+* La práctica de laboratorio abarca todos los temas teóricos de capítulos anteriores como ley de nodos, ley de mallas, ley de ohm, por lo que es necesario tener estos conocimientos desarrollados para poder realizar los cálculos del teorema de Thévenin. 
 
 7. BIBLIOGRAFÍA
 
