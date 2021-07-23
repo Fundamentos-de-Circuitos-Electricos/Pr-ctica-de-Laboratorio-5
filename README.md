@@ -8,6 +8,12 @@
 
 *Especificos*
 
+- Conocer los fundamentos básicos de este teorema y su aplicación.
+
+-	Analizar el circuito DC mediante la aplicación de los Teoremas Thévenin.
+
+- Verificar los parámetros Vth, Rth, determinados para el teorema de Thévenin y comprobar experimentalmente que se cumplan los teoremas en estudio.
+
 2. MARCO TEÓRICO 
 
 ![image](https://user-images.githubusercontent.com/85137398/126720317-387940b3-100e-438a-910a-55da92db9395.png)
