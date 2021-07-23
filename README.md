@@ -201,6 +201,8 @@ Y obtenemos los resultados con el margen de error de los resultados analíticos 
 
 5. VIDEO
 
+https://youtu.be/yWzVUxAsBhM 
+
 6. CONCLUSIONES
 
 *	El teorema de Thévenin establece que cualquier circuito complejo de corriente directa pueda ser reemplazada por un circuito equivalente que conste de una fuente de voltaje y un resistor en serie.
