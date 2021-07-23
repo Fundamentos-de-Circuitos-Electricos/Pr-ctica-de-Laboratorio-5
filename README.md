@@ -60,6 +60,22 @@ III. Conectar el circuito en base al diagrama de conexión.
 
 A continuacion calculamos los valores teóricos de voltaje y corriente en el circuito para completar las interrogantes.
 
+* Calculamos la Intensidad en R5 y su voltaje para ello, vamos a utilizar la ley de mallas de Kirchhoff: 
+
+![image](https://user-images.githubusercontent.com/84390820/126748399-016c49e7-e2c9-4a74-ba61-8bc6a602c1bf.png)
+
+Planteando y simplificando las ecuaciones obtenemos: 
+
+5260 I1 - 4700 I2 = 12
+
+-4700 I1 + 5030 I2 = 2
+
+-330 I2 + 1430 I3 = 0 
+
+Resolviendo el sistema de ecuaciones tenemos que I3 = 3.89 * 10 ^(-3) A 
+
+Entonces para determinar el voltaje de R5 utilzmos Ley de Ohm: VR5 = 1 kohm * 3.89 mA  = 3.89 V 
+
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
 * Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
