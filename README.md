@@ -6,6 +6,8 @@
 
 *General*
 
+- Identificar y aplicar el Teorema de Thevénin para lograr simplificar los cálculos de un circuito eléctrico complejo por un circuito eléctrico equivalente mucho más simple, donde interviene una fuente de tensión y una resistencia como elementos principales. 
+
 *Especificos*
 
 - Conocer los fundamentos básicos de este teorema y su aplicación.
