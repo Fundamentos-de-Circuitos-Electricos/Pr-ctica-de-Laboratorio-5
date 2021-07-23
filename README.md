@@ -137,6 +137,10 @@ VTH = 0.01532 · 330
 
 VTH = 5.056 V
 
+VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
+
+![image](https://user-images.githubusercontent.com/84390686/126750528-268898af-f380-4f6e-aa24-1d5fd2d97617.png)
+
 * Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
 abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
@@ -162,6 +166,10 @@ RTH= 198.85Ω + 100Ω
 RTH= 298.85Ω
 
 ![image](https://user-images.githubusercontent.com/84390686/126749702-0c61ab98-f581-46e1-a696-519ea03e5f48.png)
+
+VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
+
+![image](https://user-images.githubusercontent.com/84390686/126750639-f5e03302-4764-44a0-af8f-6223e8f4dee6.png)
 
 * Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
