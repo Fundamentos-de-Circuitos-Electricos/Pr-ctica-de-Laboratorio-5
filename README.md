@@ -62,7 +62,25 @@ A continuacion calculamos los valores teóricos de voltaje y corriente en el cir
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
-* Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2. 
+* Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
+medido en la tabla 5.1.
+* Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
+abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
+
+
+
+* Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
+
+![image](https://user-images.githubusercontent.com/84390820/126746116-bd999a22-3aaa-4caf-b5c5-da3dd7a78ee7.png)
+
+![image](https://user-images.githubusercontent.com/84390820/126747596-ce38bcf0-01d1-4d4d-acef-b4e2973595ea.png)
+
+* Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
+corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
+
+![image](https://user-images.githubusercontent.com/84390820/126747627-098cbb3e-3ba4-45ab-9245-6e78ff7c432d.png)
+
+![image](https://user-images.githubusercontent.com/84390820/126747676-fd82cd0a-3bc5-497a-8a55-8605dae5255b.png)
 
 5. VIDEO
 
