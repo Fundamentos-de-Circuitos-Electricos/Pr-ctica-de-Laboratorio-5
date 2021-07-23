@@ -177,8 +177,7 @@ Entonces para determinar el voltaje de R5 utilzmos Ley de Ohm: VR5 = 1 kohm * 3.
 
 ![image](https://user-images.githubusercontent.com/84390820/126747596-ce38bcf0-01d1-4d4d-acef-b4e2973595ea.png)
 
-* Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
-corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
+* Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ![image](https://user-images.githubusercontent.com/84390820/126751743-28c3be5c-9fbb-4319-b271-61911422ce7d.png)
 
@@ -187,9 +186,18 @@ Calculamos el voltaje de R5 en el circuito equivalente de Thévenin:
 Utilizamos el divisor de corriente: Vx = (VTH/Req) * Rx = ( 5.056/1298.85) * 1000 = 3.88 V 
 
 Calculamos tambien la intensidad: ITH = VTH / RTH = 5.05/ 1298.85 = 3.88 mA 
+
 ![image](https://user-images.githubusercontent.com/84390820/126747627-098cbb3e-3ba4-45ab-9245-6e78ff7c432d.png)
 
 ![image](https://user-images.githubusercontent.com/84390820/126747676-fd82cd0a-3bc5-497a-8a55-8605dae5255b.png)
+
+Para calcular el porcentaje de error de las mediciones, se tiene en cuenta la siguiente fórmula:
+
+![image](https://user-images.githubusercontent.com/84390686/125915849-61331f5c-667b-413d-b35c-59ba54711bdc.png)
+
+Y obtenemos los resultados con el margen de error de los resultados analíticos y los resulados simulados:
+
+![image](https://user-images.githubusercontent.com/84390820/126752491-2b873de0-3f30-424b-93f7-8e233bad3c1e.png)
 
 5. VIDEO
 
